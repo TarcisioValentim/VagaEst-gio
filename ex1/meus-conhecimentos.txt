@@ -1,0 +1,24 @@
+Java, criado em meados 1991, em San Hill Road empresa filiada a Sun Microsystems(da qual hoje pertence a Oracle), formado pelo time de engenheiros liderados por PATRICK NAUGTHON, SUN FELLOW e JAMES GOSLING.
+
+A Linguagem é atualmente uma das linguagens mais utilizadas em todo o mundo, ainda em crescimento nas Grandes Empresas. 
+
+Sou aluno do Senai e utilizamos o JAVA como a principal linguagem, possuo projetos como: Batalha Naval, Gerenciamento de uma Locadora de veículos e Gerenciamento Escolar.
+
+Um codigo Java é escrito uma única vez por um programador em uma plataforma, compilado para um bytecode, e interpretado pela JVM para ser executado na maquina, combinando assim a (Just-In-Time - JIT).
+
+a linguagem oak(JAVA) possui suas caracteristicas.
+
+vantagens:
+-suporte a orientacao a objetos;
+-Portabilidade;
+-Segurança;
+-Alta Peformace;
+-Interpretada;
+-Tipada;
+-Independencia de plataforma(varios S.o)
+-Comunidade Grande
+
+desvantagens:
+-Processamento numerico
+-Pre-compilacao
+-Lentidao durante seu processo.
